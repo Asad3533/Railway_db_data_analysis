@@ -109,21 +109,19 @@ Users can dynamically explore data using:
 
 ## 🔹 Executive Dashboard
 
-(Add Screenshot Here)
+<img width="1142" height="579" alt="Railway_dashboard" src="https://github.com/user-attachments/assets/1030ee7e-387c-470b-8272-125db17638aa" />
+
 
 ---
 
 ## 🔹 Revenue Analysis Dashboard
 
-(Add Screenshot Here)
+<img width="751" height="508" alt="image" src="https://github.com/user-attachments/assets/5fb35bcb-a735-4fa6-8b8c-94b2f3beb1c6" />
+
 
 ---
 
-## 🔹 Booking & Passenger Analysis Dashboard
 
-(Add Screenshot Here)
-
----
 
 # 📂 Project Files
 
